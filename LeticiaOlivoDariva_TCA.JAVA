@@ -440,9 +440,9 @@ public class LeticiaOlivoDariva_TCA {
             }
         }
         if(pega==0){
-            System.out.printf("\n\t\t\tResultados finais\n\t@: %s\t&: %s","vencedor","perdedor");
+            System.out.printf("\n\tResultados finais\n  @: %s\t&: %s","vencedor","perdedor");
         }else{
-            System.out.printf("\n\t\t\tResultados finais\n\t@: %s\t&: %s","perdedor","vencedor");
+            System.out.printf("\n\tResultados finais\n  @: %s\t&: %s","perdedor","vencedor");
         }
     }
 }
