@@ -12,8 +12,9 @@ public class LeticiaOlivoDariva_TCA {
     private static int ultimaAcaoJogador2 = 0;
 
 
+
     //tela ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    public static char[][] tela = new char[50][160];
+    public static char[][] tela = new char[60][160];
 
     //neutralizante
     public final static Random ALEATORIZA_EFEITOS = new Random();
